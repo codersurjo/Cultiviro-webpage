@@ -413,7 +413,7 @@ p {
 .image-slider {
 	width: 100%;
 	overflow: hidden;
-	background-color: #fdf5e6;
+/* 	background-color: #fdf5e6; */
 	/* Optional background color */
 	position: relative;
 }
