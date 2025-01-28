@@ -18,7 +18,7 @@
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "hello@suncliffegin.com";
+        $recipient = "hello@cultivaroamaro.com";
 
         // Set the email subject.
         $subject = "Mail from subscribe form";
