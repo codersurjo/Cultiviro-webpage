@@ -384,4 +384,9 @@
         width: 77%;
         margin: 0 auto;
     }
+    .bottole-position {
+    	position: absolute;
+    	left: -85px;
+    	top: -34%;
+    }
 }
