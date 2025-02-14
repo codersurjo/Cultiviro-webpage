@@ -39,7 +39,7 @@
 
 @media all and (max-width:1699px){
     .container-fluid{
-        max-width:95%;
+        max-width:93%;
     }
     .header-side {
         -webkit-box-flex: 0;
