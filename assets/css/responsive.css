@@ -15,7 +15,7 @@
 /*         margin-bottom: -53%; */
     }
     .image-section {
-        padding-top: 271px;
+/*         padding-top: 271px; */
     }
 }
 @media all and (min-width:1400px){
@@ -109,8 +109,9 @@
         font-size: 25px;
     }
     .image-section {
-        padding-top: 236px;
-        padding-bottom: 20px;
+/*         padding-top: 236px; */
+/*         padding-bottom: 20px; */
+        padding:20px 0;
     }
     .bottom-section {
         height: 59px;
@@ -165,8 +166,9 @@
 
     }
     .image-section {
-        padding-top: 122px;
-        padding-bottom: 9px;
+/*         padding-top: 122px;
+        padding-bottom: 9px; */
+        padding:10px 0;
     }
     .header-side ul li a {
         font-size: 13px;
