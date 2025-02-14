@@ -12,7 +12,7 @@
         height: 126px;
     }
     .team-photo {
-        margin-bottom: -53%;
+/*         margin-bottom: -53%; */
     }
     .image-section {
         padding-top: 271px;
@@ -20,7 +20,7 @@
 }
 @media all and (min-width:1400px){
     .team-photo {
-        margin-bottom: -54%;
+/*         margin-bottom: -54%; */
     }
 }
 
@@ -32,7 +32,7 @@
         max-width:1520px;
     }
     .team-photo {
-        margin-bottom: -53%;
+/*         margin-bottom: -53%; */
     }
 }
 
