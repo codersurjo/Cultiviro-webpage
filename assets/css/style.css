@@ -481,8 +481,9 @@ p {
 	}
 } */
 .image-section {
-	padding-top: 217px;
-	padding-bottom: 20px;
+/* 	padding-top: 217px;
+	padding-bottom: 20px; */
+	padding: 20px 0;
 }
 
 .bottom-section {
